@@ -1,0 +1,6 @@
+posts.db
+__pycache__/app.cpython-38.pyc
+__pycache__/hello.cpython-38.pyc
+static/images/me.jpg
+static/js/main.js
+templates/posts.html
